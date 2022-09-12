@@ -8,7 +8,7 @@ Hi there 👋
 </p>
 
 <p align="center">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikre&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikre&layout=compact&theme=radical&custom_title=Languages&&hide=TeX" /> 
  <br>
  <br>
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=vikre&theme=redical">
@@ -33,6 +33,10 @@ Hi there 👋
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp; 
 </p>
  
 
