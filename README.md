@@ -11,7 +11,7 @@ Hi there 👋
  <img width="400px" src="https://github-readme-stats-vikre.vercel.app/api/top-langs/?username=vikre&layout=compact&theme=radical&custom_title=Languages&&hide=TeX" /> 
  <br>
  <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=vikre&theme=redical">
+ <!--<img width="600px"src="https://activity-graph.herokuapp.com/graph?username=vikre&theme=redical">-->
 </p>
 
 <br>
