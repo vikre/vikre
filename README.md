@@ -3,12 +3,12 @@ Hi there 👋
 </h2>
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats-vikre.vercel.app/api?username=vikre&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=@vikre" /> 
+ <!--<img width="48%" src="https://github-readme-stats-vikre.vercel.app/api?username=vikre&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=@vikre" /> -->
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vikre&theme=radical" />
 </p>
 
 <p align="center">
- <img width="400px" src="https://github-readme-stats-vikre.vercel.app/api/top-langs/?username=vikre&layout=compact&theme=radical&custom_title=Languages&&hide=TeX" /> 
+ <!--<img width="400px" src="https://github-readme-stats-vikre.vercel.app/api/top-langs/?username=vikre&layout=compact&theme=radical&custom_title=Languages&&hide=TeX" /> -->
  <br>
  <br>
  <!--<img width="600px"src="https://activity-graph.herokuapp.com/graph?username=vikre&theme=redical">-->
